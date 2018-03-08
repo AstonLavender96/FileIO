@@ -12,6 +12,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import android.app.AlertDialog;
 import android.widget.EditText;
+import android.content.SharedPreferences;
+import android.preference.PreferenceManager;
 
 
 public class MainActivity extends AppCompatActivity {
